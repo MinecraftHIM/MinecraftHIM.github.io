@@ -6,11 +6,11 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+很高兴认识你,我是 **小宇Boi**.<br>
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
+我是一个喜欢探索的人。面对瀚航宇宙，我的大脑总是会浮现出天马行空的想象。正因如此我的求知欲十分得强烈。我探究过许多事物也阅读过很多相关的书籍和文章。其目的都是出于好奇和某种冥冥之中的指向.比如弗洛伊德的[《梦的解析》](https://baike.baidu.com/item/梦的解析/2003222)就是由我梦中的奇幻梦境和随机的字符共同指向的.同时我也对他的其他著作、理论很有兴趣 .我喜欢学习一些有关脑科学和精神学的内容，像注意力、心流、Focus and Distraction、Winner effct等心理效应都是我感兴趣的类别<br>
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+- 如果你也和我一样,那我们的相遇肯定是必然事件 
 
 ---
 
