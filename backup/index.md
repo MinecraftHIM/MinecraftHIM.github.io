@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://MinecraftHIM.github.io/shanghai.jpg" class="floatpic">
+<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
 很高兴认识你,我是 **小宇Boi**.<br>
 
