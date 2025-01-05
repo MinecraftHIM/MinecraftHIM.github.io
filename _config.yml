@@ -6,21 +6,21 @@ url: https://caihanlin.com
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name:  XYBoi
+  avatar: JAX.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: hanlin.cai@ieee.org
+  email: qq2259744332@Gmail.com
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
+  twitter: 
+  github: MinecraftHIM
   linkedin: hanlincai
   scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   bilibili: 594030035
   researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   zhihu: https://www.zhihu.com/people/chlire
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
+  # facebook: 
+  # instagram: 
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -33,8 +33,6 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
 
-# Links to include in top navigation
-# For external links add external: true
 links:
   - title: About Me
     url: /
