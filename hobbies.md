@@ -46,7 +46,7 @@ I previously enjoyed long-distance running, blog making, and computer game devel
 然后就是动漫了《**英雄联盟双城之战**》 还有我最喜欢的《**The Amazing Digital Circus**》看到下面的图了吗这就是神奇数字马戏团的各个人物 也有一些虚拟人物没有在里面，整个故事的每个角色都情感塑造的很好 也能看出很多深奥的问题让人深思.包括美术制作和音乐制作都非常用心 曲乐非常好听.这部动漫适合每个年龄段，并且每个年龄段的人的观感都会不一样.我太喜欢这个动漫了hhh.
 
 <div>
-<img src="/images/Amazing Digital.JPG">
+<img src="/images/Amazing Digital1.JPG">
 </div>
 
 
