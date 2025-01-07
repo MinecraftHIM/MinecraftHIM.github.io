@@ -4,21 +4,27 @@ permalink: /publications/index.html
 title: Notes
 ---
 
-> (†: equal contribution, ~: corresponding author)
+> To shine，not be illuminated.
 
 ## 学习笔记
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
-
-
-
+<br>
 
 <br>
 
@@ -26,17 +32,23 @@ title: Notes
 
 ## 想法记录
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
-
-
-
+<br>
 
 <br>
 
@@ -44,35 +56,45 @@ title: Notes
 
 ## 备忘录
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
-
-
-
+<br>
 
 
 ---
 
 ## Project
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
-
-
-
-
-
-<BR>
+<br>
