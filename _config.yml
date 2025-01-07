@@ -42,9 +42,9 @@ links:
     url: /awards/
   - title: 爱好
     url: /hobbies/
-  - title: Note essay
+  #- title: Note essay
     url: /startups/
-  - title: Blogs
+  #- title: Blogs
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
