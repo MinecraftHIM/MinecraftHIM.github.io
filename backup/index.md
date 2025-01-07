@@ -2,41 +2,46 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://MinecraftHIM.github.io/shanghai.jpg" class="floatpic">
+
+
 
 很高兴认识你,我是 **小宇Boi**.<br>
 
-我是一个喜欢探索的人。面对瀚航宇宙，我的大脑总是会浮现出天马行空的想象。正因如此我的求知欲十分得强烈。我探究过许多事物也阅读过很多相关的书籍和文章。其目的都是出于好奇和某种冥冥之中的指向.比如弗洛伊德的[《梦的解析》](https://baike.baidu.com/item/梦的解析/2003222)就是由我梦中的奇幻梦境和随机的字符共同指向的.同时我也对他的其他著作、理论很有兴趣 .我喜欢学习一些有关脑科学和精神学的内容，像注意力、心流、Focus and Distraction、Winner effct等心理效应都是我感兴趣的类别<br>
+一个喜欢探索的人.我时常仰望星宇,大脑便会涌出奇异魔幻的想象.随着而来的各种想法和疑问让我十分着迷.正因如此我的求知欲也变得十分得强烈.发呆也是时常存在的事,在别人眼中可能就显得愚笨不堪,但我从来都没在乎过,只想沉浸在我的各种奇思妙想中. 虽然我不是什么学者,我喜欢去探究许多事物与之相关的各种现象.也阅读过很多与想法相关的书籍和文章,其目的都是出于好奇和某种冥冥之中的指向.比如弗洛伊德的[《梦的解析》](https://baike.baidu.com/item/梦的解析/2003222)就是由我梦中的奇幻梦境和随机的字符共同指向的.在之前我并不认识弗洛伊德这个作者 但我依然找到了他并且对他的各种著作理论很感兴趣 .我喜欢看一些有关脑科学和精神学的内容，像注意力、心流、Focus and Distraction、Winner effct等标签和心理效应都是我比较感兴趣的类别<br>
 
-- 如果你也和我一样,那我们的相遇肯定是必然事件 
+- **如果你也和我一样,那我们的相遇或许是命运中不可或缺的一部分。** 
 
 ---
 
-## Research Interests
+## 学习方向
 
-**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!</font>**
+**<font color="#E7A712">永远不要停下求知的脚步</font>**
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- AI-powered Systems
-- Molecular Communication
-- Bio-sensor and Bio-electronics
+- **[Psychoanalysis](https://www.britannica.com/biography/Sigmund-Freud/Psychoanalytic-theory)**
+- **Academic reading**
+- **Psychology**
+- **Electronic engineering**
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+<font color="##141414">虽然我的学习面很广，但是我也知道这样是做不到专精的。我之所以对精神分析这方面的课题很有兴趣，是因为我有时好像会受到冥冥之中的指引以及真实生活的照影所影响，间接让我对弗洛伊德的各个学术学科产生兴趣。这也让我对世界尝试一种不真实感，我觉得这是碎片化记忆在干扰我，有机脑的记忆常常不靠谱。所以我想用这个博客来帮助我记录一些想法和我的笔记，也方便我在回忆的过程更加有趣。<br>我觉得任何共鸣的产生都是注定的.虽然不知道怎么解释 但我其实是一个无神论者.我尊重任何一种宗教并在它们面前保持庄严和基本的虔诚.</font>
 
 ---
 
 ## News and Updates
 
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **June 2024**：
+- **May 2024**：
+- **April 2024**：
+- **March 2024**：
+- **Dec 2023**：
+- **Jun 2022**：
 
-<br>
+<br><br><br>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">欢迎来到小宇Boi的博客主页。
+<br><br>The creative process is the best.<a href="https://minecrafthim.github.io/">#</a> <a href="https://minecrafthim.github.io/">#</a> <a href="https://minecrafthim.github.io/">#</a> <a href="https://minecrafthim.github.io/">#</a></p>&mdash; XYBOI (@XYboi) <a href="">January 6, 2025/<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

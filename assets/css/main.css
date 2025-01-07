@@ -170,7 +170,7 @@ p code{font-size:80%;white-space:nowrap;margin:0 2px;padding:0 5px;border:1px so
 .visible-tablet{display:none !important;}
 .hidden-desktop{display:none !important;}
 /*@media (max-width:767px){.visible-phone{display:inherit !important;} .hidden-phone{display:none !important;} .hidden-desktop{display:inherit !important;} .visible-desktop{display:none !important;}}@media (min-width:768px) and (max-width:979px){.visible-tablet{display:inherit !important;} .hidden-tablet{display:none !important;} .hidden-desktop{display:inherit !important;} .visible-desktop{display:none !important ;}}hr{display:block;margin:1em 0;padding:0;height:1px;border:0;border-top:1px solid #ccc;border-bottom:1px solid #fff;}*/
-/* Update in 28 Aug 2023 by Hanlin */
+/* XYboi */
 @media (max-width:1100px){.visible-phone{display:inherit !important;} .hidden-phone{display:none !important;} .hidden-desktop{display:inherit !important;} .visible-desktop{display:none !important;}}@media (min-width:1100px) and (max-width:1300px){.visible-tablet{display:inherit !important;} .hidden-tablet{display:none !important;} .hidden-desktop{display:inherit !important;} .visible-desktop{display:none !important ;}}hr{display:block;margin:1em 0;padding:0;height:1px;border:0;border-top:1px solid #ccc;border-bottom:1px solid #fff;}
 article img{max-width:100%;height:auto;border-width:0;vertical-align:middle;-ms-interpolation-mode:bicubic;}
 svg:not(:root){overflow:hidden;}
@@ -259,7 +259,7 @@ html{background-color:#ffffff;font-family:'PT Serif',serif;font-color:#333332;fo
 #main:before,#main:after{content:"";display:table;}
 #main:after{clear:both;}
 
-/* Update in 28 Aug 2023 by Hanlin */
+/* XYboi */
 .wide {
     width: 90% !important;
   }
