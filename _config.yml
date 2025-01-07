@@ -34,13 +34,13 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # bing_verify: ""
 
 links:
-  - title: About Me
+  - title: 主页
     url: /
-  - title: 个人笔记
+  - title: 笔记
     url: /publications/
-  - title: Awards
+  - title: Awards简历
     url: /awards/
-  - title: Hobbies
+  - title: 爱好
     url: /hobbies/
   - title: Note essay
     url: /startups/
