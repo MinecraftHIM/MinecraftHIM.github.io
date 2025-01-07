@@ -43,5 +43,5 @@ layout: page
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">欢迎来到小宇Boi的博客主页。
-<br><br>The creative process is the best.<a href="https://minecrafthim.github.io/">#</a> <a href="https://minecrafthim.github.io/">#</a> <a href="https://minecrafthim.github.io/">#</a> <a href="https://minecrafthim.github.io/"</a></p>&mdash; XYBOI (@XYboi) <a href="">January 6, 2025/<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br><br>The creative process is the best.<a href="https://minecrafthim.github.io/">#</a> <a href="https://minecrafthim.github.io/">#</a> <a href="https://minecrafthim.github.io/">#</a> <a href="https://minecrafthim.github.io/">#</a></p>&mdash; XYBOI (@XYboi) <a href="">January 6, 2025/<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
