@@ -5,7 +5,7 @@ title: Awards
 ---
 
 > Update:  2025.1.7
----
+
 ## Scholarships
 
 <br>
@@ -44,10 +44,9 @@ title: Awards
 
 <br>
 
-<br>---
-
+<br>
+---
 ## Competitions
-
 <br>
 
 <br>
@@ -59,44 +58,43 @@ title: Awards
 <br>
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br> 
 
 ---
-
