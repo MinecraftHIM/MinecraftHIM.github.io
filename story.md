@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /awards/index.html
+permalink: /story/index.html
 <<<<<<< HEAD
-title: awards
+title: story
 =======
-title: Awards
+title: story
 >>>>>>> parent of eaa9433 (更新2)
 ---
 
