@@ -2,7 +2,7 @@
 layout: page
 permalink: /awards/index.html
 <<<<<<< HEAD
-title: Awards
+title: awards
 =======
 title: Awards
 >>>>>>> parent of eaa9433 (更新2)
