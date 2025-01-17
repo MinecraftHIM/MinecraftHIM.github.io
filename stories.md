@@ -34,8 +34,6 @@ A <br>B <br>C <br>D <br>E <br>F <br>G <br>
 
 ---
 
-<br>
----
 ## Competitions
 <br>
 
