@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /story/index.html
+permalink: /stories/
 <<<<<<< HEAD
-title: story
+title: stories
 =======
-title: story
+title: stories
 >>>>>>> parent of eaa9433 (更新2)
 ---
 
