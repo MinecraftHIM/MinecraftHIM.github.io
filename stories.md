@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /stories/
+permalink: /stories/index.html
 <<<<<<< HEAD
 title: stories
 =======
