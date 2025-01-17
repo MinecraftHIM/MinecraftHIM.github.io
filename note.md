@@ -8,7 +8,7 @@ title: Notes
 
 ## 学习笔记
 
-**12.30**-[博客:注意力与心流的机制]([https://www.XYboi.top/file/#1/)
+**12.30**-[博客:注意力与心流的机制](https://XYboi.top/file/#1/)
 <br>
 
 <br>
