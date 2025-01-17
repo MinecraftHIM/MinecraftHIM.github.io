@@ -2,9 +2,9 @@
 layout: page
 permalink: /stories/index.html
 title: stories
-Update:  2025.1.7
-title: 日期
 ---
+> Update:  2025.1.7
+
 
 ## Scholarships
 
