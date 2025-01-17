@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /file/#1/index.html
-title: #1
+permalink: /file/attention/index.html
+title: attention
 ---
 > updata: 12.30 
 
