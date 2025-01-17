@@ -8,7 +8,7 @@ title: attention
 # 注意力与心流的机制
 ---
 
-### [bilibili播客-如何拯救我的注意力E112](https://b23.tv/0GDVkNm)思考笔记#
+### [bilibili播客-如何拯救我的注意力E112](https://b23.tv/0GDVkNm "打开链接" ) 思考笔记#
 
 **注意力Attention下降的缘故**：惩罚奖赏机制、人的自我辩护、
 
