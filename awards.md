@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /story/index.html
-title: story
+permalink: /awards/index.html
+title: awards
 ---
 
 > Update:  2025.1.7
