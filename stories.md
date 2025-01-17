@@ -1,14 +1,9 @@
 ---
 layout: page
 permalink: /stories/index.html
-<<<<<<< HEAD
 title: stories
-=======
-title: stories
->>>>>>> parent of eaa9433 (更新2)
+Update:  2025.1.7
 ---
-
-> Update:  2025.1.7
 
 ## Scholarships
 
