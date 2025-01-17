@@ -1,7 +1,11 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: awards
+<<<<<<< HEAD
+title: Awards
+=======
+title: Awards
+>>>>>>> parent of eaa9433 (更新2)
 ---
 
 > Update:  2025.1.7
