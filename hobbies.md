@@ -33,13 +33,31 @@ title: Hobbies
 [best universities in my hometown]:https://www.fzu.edu.cn/
 
 
-## Past Hobbies
+## 过去与现在的爱好
 
-I previously enjoyed long-distance running, blog making, and computer game developing/playing. However, I have no time to do any of these things recently.
+我以前喜欢慢跑、APP二创修改以及玩一些手机游戏.但我最近没有继续做这些事情.
+
+现在的爱好相较于过去其实并没有太大差异，无非就是设备的更新迭代让我从手机端转移到了PC端.
+
+因为环境改变 运动减少了，改为了阅读. Medium是经常用的平台. 还有就是更新自己的云端笔记也挺有乐趣的.
+
+喜欢的电脑游戏有:帝国时代4、CSGO、SCUM、死亡搁浅、
+
+同时我还是一个阈限空间迷. 像backroom这样的怪诞 阈限 内核 题材类型的游戏和视频都很感兴趣.
+
+<div class="third">
+<img src="/images/swgq.JPG">
+<img src="/images/swgq1.JPG">
+<img src="/images/swgq.JPG">
+</div>
+
+
 
 ## 我喜欢的影视作品
 
 我很喜欢看剧还有动漫，偶尔会看看电影.
+
+
 
 看剧比较多 比如Netflix非常烧脑的 《**黑镜**》系列,还有《**Inside Job**》都是讲的乌托邦世界和各种阴谋论的科幻离奇故事非常推荐.可惜《阴谋办公室》在第二季后就没有后续了，推特也停止了更新，且看且珍惜吧.
 
