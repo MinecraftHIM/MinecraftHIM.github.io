@@ -43,8 +43,8 @@ links:
   - title: 爱好
     url: /hobbies/
   #- title: Note essay
-  #  url: /startups/
-   title: Blogs
+    url: /startups/
+  #- title: Blogs
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
