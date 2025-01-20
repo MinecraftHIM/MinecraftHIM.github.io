@@ -36,20 +36,13 @@ title: Hobbies
 ## 过去与现在的爱好
 
 我以前喜欢慢跑、APP二创修改以及玩一些手机游戏.但我最近没有继续做这些事情.
-
 现在的爱好相较于过去其实并没有太大差异，无非就是设备的更新迭代让我从手机端转移到了PC端.
-
 因为环境改变 运动减少了，改为了阅读. Medium是经常用的平台. 还有就是更新自己的云端笔记也挺有乐趣的.
-
 喜欢的电脑游戏有:帝国时代4、CSGO、SCUM、死亡搁浅、
-
 同时我还是一个阈限空间迷. 像backroom这样的怪诞 阈限 内核 题材类型的游戏和视频都很感兴趣.
 
 <div class="third">
 <img src="/images/swgq.JPG">
-<img src="/images/swgq1.JPG">
-<img src="/images/swgq.JPG">
-</div>
 
 
 
