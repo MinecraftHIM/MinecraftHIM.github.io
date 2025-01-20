@@ -43,16 +43,12 @@ title: Hobbies
 以下是一些游戏内的图片:
 <img src="/images/swgq5.PNG">
 
-<p align="center">**[山姆和BB]**</p>   
-<p align="center">**行尸走肉中我们所熟知的的弩哥饰游戏中的山姆**</p>  
+<p align="center"><strong>[山姆和BB]</strong></p>   
+<p align="center"><strong>行尸走肉中我们所熟知的的弩哥饰游戏中的山姆</strong></p>  
 <p align="center">很喜欢游戏中的一句话：架起生者与逝者的桥梁，连接这两者之间的世界. </p>  
 <p align="center">对这句话很有感触.当游戏映射到现实中，人与人之间、与已故之人之间的那座桥梁构建之深 密不可分 </p>  
 
-​                                                                                              **行尸走肉中我们所熟知的的弩哥饰游戏中的山姆**
-
-​                                                                     很喜欢游戏中的一句话：架起生者与逝者的桥梁，连接这两者之间的世界。 
-
-​                                                对这句话很有感触.当游戏映射到现实中，人与人之间、与已故之人之间的那座桥梁构建之深 密不可分 
+​                                                                                            
 
 <img src="/images/swgq9.PNG">
 
