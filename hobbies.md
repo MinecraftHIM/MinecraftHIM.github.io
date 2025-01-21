@@ -49,7 +49,7 @@ title: Hobbies
 <p align="center">对这句话很有感触.当游戏映射到现实中，人与人之间、与已故之人之间的那座桥梁构建之深 密不可分
 
 
-<img src="images/swgq5.PNG"  width="50%" />
+<img src="images/swgq5.PNG" Alt="山姆" width="50%" />
 
 
 
