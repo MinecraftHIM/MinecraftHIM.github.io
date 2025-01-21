@@ -9,10 +9,11 @@ title: Hobbies
 ## reading & Writing
 
 <div class="third">
-<img src="/images/JAX.JPG" width="25%">
-<img src="/images/JAX.JPG" width="25%">
-<img src="/images/JAX.JPG" width="25%">
+<img src="/images/202208.JPEG">
+<img src="/images/.JPG">
+<img src="/images/.JPG">
 </div>
+
 
 <br>       阅读是一件美好的事情，在阅读各种书籍和文章的过程中加以思考的这个过程非常有趣.而不是像读高中为了应对试卷一样死读书。高中生活的时候我也经常会去泡我们学校那个小小的图书馆，书很少 但却给我带来了很多乐趣。那时候看的书基本上都是一些期刊类的和带有图片比较有趣的书。**<br>
 
