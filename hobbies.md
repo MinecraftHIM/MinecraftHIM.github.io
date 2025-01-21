@@ -48,7 +48,7 @@ title: Hobbies
 <p align="center">很喜欢游戏中的一句话：架起生者与逝者的桥梁，连接这两者之间的世界. </p>  
 <p align="center">对这句话很有感触.当游戏映射到现实中，人与人之间、与已故之人之间的那座桥梁构建之深 密不可分 </p>  
 
-​                          <img src="images/swgq9.PNG" alt="" width="300" height="200"/><img src="images/swgq4.PNG" alt="" width="300" height="200"/><img src="images/swgq.PNG" alt="" width="300" height="200"/>
+​                          <img src="images/swgq9.PNG" alt="" width="300" height="200"/>img src="images/swgq4.PNG" alt="" width="300" height="200"/>img src="images/swgq.PNG" alt="" width="300" height="200"/>
 
 
 
