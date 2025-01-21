@@ -19,10 +19,11 @@ title: Hobbies
 ## Workshop
 
 <div class="third">
-<img src="/images/swgq-1.PNG">
-<img src="/images/swgq-2.PNG">
-<img src="/images/swgq-3.PNG">
+<img src="/images/#.PNG">
+<img src="/images/#.PNG">
+<img src="/images/#.PNG">
 </div>
+
 
 <br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
 
@@ -45,7 +46,12 @@ title: Hobbies
 <p align="center">对这句话很有感触.当游戏映射到现实中，人与人之间、与已故之人之间的那座桥梁构建之深 密不可分
 
 
-<img src="images/swgq5.PNG" Alt="山姆" width="25%" />
+<div class="third">
+<img src="/images/swgq-1.PNG" Alt="山姆" width="25%"/>
+<img src="/images/swgq-2.PNG" Alt="山姆" width="25%"/>
+<img src="/images/swgq-3.PNG" Alt="山姆" width="25%"/>
+</div>
+
 
 
 
