@@ -41,7 +41,7 @@ title: Hobbies
 喜欢的电脑游戏有:帝国时代4、CSGO、SCUM、死亡搁浅、
 同时我还是一个阈限空间迷. 像backroom这样的怪诞 阈限 内核 题材类型的游戏和视频都很感兴趣.
 以下是一些游戏内的图片:
-<img src="/images/swgq5.PNG">
+[<img src="/images/swgq5.PNG">](https://en.wikipedia.org/wiki/Death_Stranding"死亡搁浅 山姆和BB")
 
 <p align="center"><strong>[山姆和BB]</strong></p>   
 <p align="center"><strong>行尸走肉中我们所熟知的的弩哥饰游戏中的山姆</strong></p>  
