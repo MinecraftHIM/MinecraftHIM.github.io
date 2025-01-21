@@ -9,10 +9,11 @@ title: Hobbies
 ## reading & Writing
 
 <div class="third">
-<img src="/images/one.JPG">
-<img src="/images/two.JPG">
-<img src="/images/three.JPG">
+<img src="/images/JAX.JPG" width="25%">
+<img src="/images/JAX.JPG" width="25%">
+<img src="/images/JAX.JPG" width="25%">
 </div>
+
 <br>       阅读是一件美好的事情，在阅读各种书籍和文章的过程中加以思考的这个过程非常有趣.而不是像读高中为了应对试卷一样死读书。高中生活的时候我也经常会去泡我们学校那个小小的图书馆，书很少 但却给我带来了很多乐趣。那时候看的书基本上都是一些期刊类的和带有图片比较有趣的书。**<br>
 
 比起以前，现在的我更喜欢看一些感兴趣的书籍和学术文章。例如前面提到的弗洛伊德的书籍，还有一些有关大脑的著名译本比如《[**认知觉醒**]( "认知觉醒：开启自我改变的原动力")》《[**掌控习惯**]( "掌控习惯：如何养成好习惯并戒除坏习惯")》.如果你有值得推荐的书欢迎你在下面的留言栏里告诉我，十分感谢。**
@@ -49,7 +50,7 @@ title: Hobbies
 <p align="center">对这句话很有感触.当游戏映射到现实中，人与人之间、与已故之人之间的那座桥梁构建之深 密不可分
 
 
-<img src="images/swgq5.PNG" Alt="山姆" width="50%" />
+<img src="images/swgq5.PNG" Alt="山姆" width="25%" />
 
 
 
