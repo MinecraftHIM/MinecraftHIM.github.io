@@ -41,18 +41,14 @@ title: Hobbies
 喜欢的电脑游戏有:帝国时代4、CSGO、SCUM、死亡搁浅、
 同时我还是一个阈限空间迷. 像backroom这样的怪诞 阈限 内核 题材类型的游戏和视频都很感兴趣.
 以下是一些游戏内的图片:
-[<img src="/images/swgq5.PNG">]("死亡搁浅 山姆和BB")
+[<img src="/images/swgq5.PNG">](https://en.wikipedia.org/wiki/Death_Stranding)
 
 <p align="center"><strong>[山姆和BB]</strong></p>   
 <p align="center"><strong>行尸走肉中我们所熟知的的弩哥饰游戏中的山姆</strong></p>  
 <p align="center">很喜欢游戏中的一句话：架起生者与逝者的桥梁，连接这两者之间的世界. </p>  
 <p align="center">对这句话很有感触.当游戏映射到现实中，人与人之间、与已故之人之间的那座桥梁构建之深 密不可分 </p>  
 
-​                                                                                            
-
-<img src="/images/swgq9.PNG">
-
-<img src="/images/swgq4.PNG">
+​                          <img src="images/swgq9.PNG" alt="毒液般的BT" width="300" height="200"/><img src="images/swgq4.PNG" alt="初入时的震撼" width="300" height="200"/><img src="images/swgq.PNG" alt="初入时的震撼" width="300" height="200"/>
 
 
 
