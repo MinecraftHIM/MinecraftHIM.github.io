@@ -8,13 +8,6 @@ title: Hobbies
 
 ## reading & Writing
 
-<div class="third">
-<img src="/images/202208.JPEG">
-<img src="/images/.JPG">
-<img src="/images/.JPG">
-</div>
-
-
 <br>       阅读是一件美好的事情，在阅读各种书籍和文章的过程中加以思考的这个过程非常有趣.而不是像读高中为了应对试卷一样死读书。高中生活的时候我也经常会去泡我们学校那个小小的图书馆，书很少 但却给我带来了很多乐趣。那时候看的书基本上都是一些期刊类的和带有图片比较有趣的书。**<br>
 
 比起以前，现在的我更喜欢看一些感兴趣的书籍和学术文章。例如前面提到的弗洛伊德的书籍，还有一些有关大脑的著名译本比如《[**认知觉醒**]( "认知觉醒：开启自我改变的原动力")》《[**掌控习惯**]( "掌控习惯：如何养成好习惯并戒除坏习惯")》.如果你有值得推荐的书欢迎你在下面的留言栏里告诉我，十分感谢。**
@@ -26,10 +19,11 @@ title: Hobbies
 ## Workshop
 
 <div class="third">
-<img src="/images/one.JPG">
-<img src="/images/two.JPG">
-<img src="/images/three.JPG">
+<img src="/images/JAX.JPG">
+<img src="/images/JAX.JPG">
+<img src="/images/JAX.JPG">
 </div>
+
 <br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
 
 [best universities in my hometown]:https://www.fzu.edu.cn/
