@@ -136,16 +136,21 @@ title: stories
 				<h1>蒋智宇</h1>
 			</div>
 			<div class="header-right">
-				<p>机械工程师</p>
-				<p>138-1234-5678 | zhangwei@email.com</p>
+				<p>男 22岁 电气自动化 专科</p>
+				<p>155-7738-XXXX | QQ2259744332@Gmail.com</p>
 				<p>广西桂林市</p>
-				<p><a href="https://github.com/zhangwei">GitHub</a> | <a href="https://linkedin.com/in/zhangwei">LinkedIn</a></p>
+				<p><a href="https://github.com/MinecraftHIM">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></p>
 			</div>
 		</div>
 		<div class="content">
 			<div class="section">
+				<h2>教育背景</h2>
+				<p>2022.09-2025.06</p>
+			</div>
+			<div class="section">
 				<h2>个人简介</h2>
-				<p>熟练掌握HTML、CSS、JavaScript及React框架，致力于构建用户友好的Web应用。善于团队协作，注重代码质量和项目效率。</p>
+				<p>熟练掌握Git分布式版本控制系统、MarkDown语言、以及专业知识,有较强自学能力 开发过个人博客网站以及部分应用程序脚本语言开发经历 个人性格沉稳身体健康没有嗜好
+                    善于逻辑思考 探究原理并举一反三.</p>
 			</div>
 			<div class="section">
 				<h2>工作经历</h2>
