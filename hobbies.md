@@ -6,28 +6,29 @@ title: Hobbies
 
 # Hobbies
 
-## reading & Writing
+## 阅读与写作
 
-<br>       阅读是一件美好的事情，在阅读各种书籍和文章的过程中加以思考的这个过程非常有趣.而不是像读高中为了应对试卷一样死读书。高中生活的时候我也经常会去泡我们学校那个小小的图书馆，书很少 但却给我带来了很多乐趣。那时候看的书基本上都是一些期刊类的和带有图片比较有趣的书。**<br>
+<br>       阅读是一件美好的事情，在阅读各种书籍和文章的过程中加以思考的这个过程非常有趣.而不是像读高中为了应对试卷一样死读书。高中生活的时候我也经常会去泡我们学校那个小小的图书馆，书很少 但却给我带来了很多乐趣。那时候看的书基本上都是一些期刊类的和带有图片比较有趣的书。<br>
 
-比起以前，现在的我更喜欢看一些感兴趣的书籍和学术文章。例如前面提到的弗洛伊德的书籍，还有一些有关大脑的著名译本比如《[**认知觉醒**]( "认知觉醒：开启自我改变的原动力")》《[**掌控习惯**]( "掌控习惯：如何养成好习惯并戒除坏习惯")》.如果你有值得推荐的书欢迎你在下面的留言栏里告诉我，十分感谢。**
+​        相较过去，现在的我更喜欢阅读一些心理学的书籍和学术文章。例如前面提到的弗洛伊德的书籍，还有一些有关大脑的著名译本比如《[**认知觉醒**]( "认知觉醒：开启自我改变的原动力")》《[**掌控习惯**]( "掌控习惯：如何养成好习惯并戒除坏习惯")》 如果你有值得推荐的书欢迎你在下面的留言栏里告诉我，十分感谢。
 
-我喜欢阅读，阅读不仅帮助我形成良好的认知链络还能锻炼大脑。我可不想以后得老年痴呆嘻嘻~**<dr>
+我喜欢阅读，阅读不仅帮助我形成良好的认知链络还能锻炼大脑。我可不想以后得老年痴呆嘻嘻~
+同时我也喜欢对我在学习和所了解的各种知识做一个小记，帮助我巩固记忆的同时还能锻炼我的写作能力。我也想像那些bloger大牛们一样写一篇完美又有逻辑的文章。奈何才疏学浅，我还得继续锻炼我的写作水平才行。
 
-同时我也喜欢对我在学习和所了解的各种知识做一个小记，帮助我巩固记忆的同时还能锻炼我的写作能力。我也想像那些bloger大牛们一样写一篇完美又有逻辑的文章。奈何我才疏学浅，看来我还得继续锻炼我的写作水平才行。**
-
-## Workshop
+## 游戏
 
 <div class="third">
 <img src="/images/#.PNG">
 <img src="/images/#.PNG">
 <img src="/images/#.PNG">
 </div>
+​        我是一名忠实的FPS游戏玩家.像CS、穿越火线、PUBG、RUST、Minecratf 等绝大多数FPS通吃。其中包含创造性和生存类玩法的游戏更是我的最爱.
+典型代表: SCUM(人渣)  RUST(腐蚀)  Minecraft(我的世界)
+
+​        同时也非常喜欢公平竞技类的游戏如：CSGO(CS2) 这个游戏对团队协作能力、地图控制、敌人动向推断以及反应速度要求较高.
+并且对各种武器枪械弹道的掌握要求较高 有一定上手门槛. 通常我的反应速度在230MS左右 处理残局能力相当出色.奈何游戏平台对胜率的控制太过离谱匹配机制拉跨 而官方匹配经常遇到作弊者 对这个游戏也是越来越失望.
 
 
-<br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
-
-[best universities in my hometown]:https://www.fzu.edu.cn/
 
 
 ## 过去与现在的爱好
@@ -75,11 +76,9 @@ title: Hobbies
 
 <br>
 
-## Chat with me
+<br>
 
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/xyboi/meet-with-me) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
+<br>
 
 <div class="calendly-inline-widget" data-url="https://calendly.com/xyboi/meet-with-me" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
