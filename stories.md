@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+---
+layout: page
+permalink: /stories/index.html
+title: stories
+---
 <html lang="zh-CN">
 <head>
 	<meta charset="UTF-8">
@@ -164,13 +168,13 @@
 					</li>
 				</ul>
 			</div>
-			
+
 			<div class="section skills">
 				<h2>技能</h2>
 				<ul>
 					<li>计算机二级</li>
-                    <li>低压电工证</li>
-                    <li>HTML</li>
+	                <li>低压电工证</li>
+	                <li>HTML</li>
 					<li>JavaScript</li>
 					<li>Lua</li>
 					<li>Vue.js</li>
