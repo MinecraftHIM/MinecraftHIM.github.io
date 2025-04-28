@@ -142,7 +142,7 @@ title: stories
 		<div class="content">
 			<div class="section">
 				<h2>教育背景</h2>
-                <ul>
+                <ul style="list-style-type: none;">
                 <li><strong>灌阳第二高级中学 | 高中</strong><br>2019.09-2022.06 - 桂林</li>
                 <li><strong>广西理工职业技术学院 | 专科</strong><br>
                 2022.09-2025.06 - 南宁 
