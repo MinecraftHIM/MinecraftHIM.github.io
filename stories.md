@@ -134,7 +134,8 @@ title: stories
 			</div>
 			<div class="header-right">
 				<p>男 22岁 电气自动化 专科</p>
-				<p>155-7738-8419 | QQ2259744332@Gmail.com</p>
+				<p>155-7738-8419</p>
+				<p> QQ2259744332@Gmail.com</p>
 				<p>广西桂林市</p>
 				<p><a href="https://github.com/MinecraftHIM">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></p>
 			</div>
