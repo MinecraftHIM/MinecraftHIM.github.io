@@ -129,7 +129,7 @@ title: stories
 	<div class="container">
 		<div class="header">
 			<div class="header-left">
-				<img src="https://minecrafthim.github.io/shanghai.jpg" alt="个人照片">
+				<img src="https://minecrafthim.github.io/images/JZY.jpg" alt="个人照片">
 				<h1>蒋智宇</h1>
 			</div>
 			<div class="header-right">
@@ -171,14 +171,16 @@ title: stories
 			</div>
 
 			<div class="section skills">
-				<h2>技能</h2>
+				<h2>专业技能</h2>
 				<ul style="list-style-type: none;">
 					<li>计算机二级</li>
 	                <li>低压电工证</li>
-	                <li>HTML</li>
+	                <li>PLC编程</li>
+	                <li>AutoCAD<li>
+	                <li>WinCC</li>
+	                <li>Multsim电路设计<li>
+					<li>HTML5</li>
 					<li>JavaScript</li>
-					<li>Lua</li>
-					<li>Vue.js</li>
 					<li>Git</li>
 				</ul>
 			</div>
