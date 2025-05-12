@@ -154,7 +154,7 @@ title: stories
 			</div>
 		    <div class="section">
 				<h2>个人简介</h2>
-				<p>熟练掌握专业课程知识并通过自学学会Git分布式版本控制系统、MarkDown语言和网页开发语言工具等。
+				<p>熟练掌握专业课程知识并通过自学学会Git分布式版本控制系统、MarkDown语言和网页开发语言、工具等。
              <br>有较强自学能力 有过个人博客网站以及应用程序脚本开发经历
              <br>性格沉稳 身体健康 没有嗜好 善于逻辑思考 探究原理并举一反三.</p>
 			</div>
@@ -176,9 +176,9 @@ title: stories
 					<li>计算机二级</li>
 	                <li>低压电工证</li>
 	                <li>PLC编程</li>
-	                <li>AutoCAD<li>
+	                <li>AutoCAD</li>
 	                <li>WinCC</li>
-	                <li>Multsim电路设计<li>
+	                <li>Multsim电路设计</li>
 					<li>HTML5</li>
 					<li>JavaScript</li>
 					<li>Git</li>
@@ -188,7 +188,7 @@ title: stories
 				<h2>项目经验</h2>
 				<ul>
 					<li>
-						<strong>XXXXX</strong><br> 2021.01 - 2021.06<br> - 使用React和TypeScript重构官网，提升SEO排名。<br> - 引入懒加载和代码分割，减少首次加载时间20%。
+						<strong>校内实训项目</strong><br> 2024.03 - 2024.06<br> - 设计并实现基于西门子S7-1200 PLC传送带自动化控制系统，包含启动、停止速度调节功能。<br>使用梯形图编程及电脑模拟运行。
 					</li>
 					<li>
 						<strong>个人网页开发</strong><br> 2022.09 - 2022.09<br> - 开发博客网页，支持基础发文功能。<br> - 添加网页嵌入交互、访问记录功能。
