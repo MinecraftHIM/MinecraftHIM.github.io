@@ -123,7 +123,7 @@ title: stories
 		        text-align: center;
 		    }
 		}
-	</style>
+</style>
 </head>
 <body>
 
@@ -142,7 +142,6 @@ title: stories
 			</div>
 		</div>
 		<div class="content">
-		
 			<div class="section">
 				<h2>教育背景</h2>
 	            <ul>
@@ -158,18 +157,15 @@ title: stories
 	        <br> 有过个人博客类网站搭建开发经验以及应用程序脚本开等发经历 并有多段实习经历.
 	        <br>个人性格沉稳 善于沟通 身体健康 没有纹身以及不良嗜好</p>
 			</div>
-			
 			<div class="section">
 			<h2>工作经历</h2>
 			<ul>
-			
 			<li>
 			<strong>生产操作员 | 立讯精密有限公司</strong>
 			<br> 2023.09 - 2023.12 - 苏州
 			<br>-机器报警处理及设备传送带、传感器维护维修跟，进产品产量按时交付。
 			<br>-操作定制可视化win系统组态界面 根据实际生产情况调节设备运行速率以及添加物料。
 			</li>
-			
 			<li>
 			<strong>机械装配员 | 上汽通用五菱有限公司</strong>
 			<br> 2024.09-2024.12 柳州
@@ -183,11 +179,8 @@ title: stories
         </li>
         </ul>
         </div>
-        
-
 		<div class="section skills">
-		<h2>专业技能</h2>
-			
+		<h2>专业技能</h2>	
 		<ul style="list-style-type: none;">
 			<li>计算机二级  </li>
             <li>低压电工证  </li>
@@ -195,8 +188,7 @@ title: stories
             <li>微软办公软件 </li>
             <li>PLC        </li>
 			</ul>
-		    </div>
-		    
+		    </div>   
 		    <div class="section">
 			<h2>项目经验</h2>
 			<ul>
@@ -215,7 +207,6 @@ title: stories
 		    </div>
         	</div>
             </div>
-            
             </body>
             </html>
 ```
