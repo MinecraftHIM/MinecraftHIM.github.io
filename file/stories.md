@@ -126,7 +126,6 @@ title: stories
 	</style>
 </head>
 <body>
-
 	<div class="container">
 		<div class="header">
 			<div class="header-left">
@@ -134,30 +133,30 @@ title: stories
 				<h1>蒋智宇</h1>
 			</div>
 			<div class="header-right">
-				<p>广西桂林市</p>
-				<p>男  22岁</p>
-				<p></p>
+				<p>男 22岁 电气自动化 专科</p>
 				<p>155-7738-8419</p>
-				<p>QQ2259744332@Gmail.com</p>
+				<p> QQ2259744332@Gmail.com</p>
+				<p>广西桂林市</p>
+				<p><a href="https://github.com/MinecraftHIM">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></p>
 			</div>
 		</div>
 		<div class="content">
 			<div class="section">
 				<h2>教育背景</h2>
-	            <ul >
-	            <li><strong>灌阳第二高级中学 | 高中</strong><br>**2019.09-2022.06 - 桂林 - 理科**</li>
-	            <li><strong>广西理工职业技术学院 | 大学专科</strong><br>
-	            **2022.09-2025.06 - 南宁 - 电气自动化技术**
-	              <br>
-**-主修课程**:可编程控制器技术(PLC) 嵌入式系统开发(单片机) 供配电技术 CAD制图 组态开发 等
+                <ul >
+                <li><strong>灌阳第二高级中学 | 高中</strong><br>2019.09-2022.06 - 桂林</li>
+                <li><strong>广西理工职业技术学院 | 专科</strong><br>
+                2022.09-2025.06 - 南宁 
+                  <br>-专业:电气自动化技术
+                  <br>-主修课程:可编程控制器技术(PLC)、嵌入式系统开发(单片机原理)、供配电、电力电子技术、等
                 </li>  
                 </ul>
 			</div>
 		    <div class="section">
 				<h2>个人简介</h2>
-				<p>    本人有较强的自学能力 在校成绩专业前10% 在校期间参加校宣传部以及各种社团有一定组织能力 善于逻辑推理能独立思考. 熟练掌握专业课程知识 通过自学学会Git分布式版本控制系统、MarkDown语言和网页开发语言、工具等。
-             <br> 有过个人博客网站以及应用程序脚本开发经历 有多段实习经历.
-             <br>性格沉稳 善于沟通 身体健康 没有不良嗜好以及纹身</p>
+				<p>熟练掌握专业课程知识并通过自学学会Git分布式版本控制系统、MarkDown语言和网页开发语言、工具等。
+             <br>有较强自学能力 有过个人博客网站以及应用程序脚本开发经历
+             <br>性格沉稳 身体健康 没有嗜好 善于逻辑思考 探究原理并举一反三.</p>
 			</div>
 			<div class="section">
 				<h2>工作经历</h2>
@@ -168,15 +167,9 @@ title: stories
 					<li>
 						<strong>机械装配员 | 上汽通用五菱有限公司</strong><br> 2024.09 - 2024.12 - 柳州<br> - 参与汽车零部件装配，质量问题排查。<br> - 操作生产设备并监控设备运行状态。<br>-负责设备的维护、耗材替换、清洁等。
 					</li>
-
-	    <li>
-						<strong>机械装配员 | 上汽通用五菱有限公司</strong><br> 2024.09 - 2024.12 - 柳州<br> - 参与汽车零部件装配，质量问题排查。<br> - 操作生产设备并监控设备运行状态。<br>-负责设备的维护、耗材替换、清洁等。
-					</li>
-
-	
-	<li><strong>管培生 | 惠州华显光电有限公司</strong><br> 2025.07 - 2025.10 - 惠州<br> - 参与汽车零部件装配，质量问题排查。<br> - 操作生产设备并监控设备运行状态。<br>-负责设备的维护、耗材替换、清洁等。</li>			</ul>
+				</ul>
 			</div>
-	
+
 			<div class="section skills">
 				<h2>专业技能</h2>
 				<ul style="list-style-type: none;">
