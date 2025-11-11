@@ -47,8 +47,8 @@ title: stories
 		}
 		.header-left h1 {
 		    margin: 0;
-		    font-size: 28px;
-		    color: #1e3a8a;
+		    font-size: 28px; /*字体大小*/
+		    color: #1e3a8a; /*颜色*/
 		}
 		.header-right {
 		    text-align: right;
@@ -114,13 +114,16 @@ title: stories
 		        text-align: center;
 		    }
 		    .header-left {
-		        flex-direction: column;
-		        margin-bottom: 10px;
+		        flex-direction: column; /*竖向排列*/
+		        align-items: center; /*名字居中*/
+		        text-align: center;  /* 文字对齐 */
+		        margin-bottom: 10px; /*底部间隔*/
 		    }
 		    .header-left img {
 		        margin-right: 0;
-		        margin-bottom: 10px;
-		        width: 80px;
+		        margin-bottom: 10px;/*图文间距*/
+		        width: 80px; /*头像大小*/
+		        height: auto;
 		    }
 		    .header-right {
 		        text-align: center;
@@ -173,11 +176,11 @@ title: stories
 			 </li>
 			 <li>
 			 <strong>机械装配员 | 上汽通用五菱有限公司</strong>
-			 <br> 2024.09-2024.12 柳州
+			 <br> 2024.09-2024.12 - 柳州
 			 </li>
              <li>
              <strong>工程师管培生 | 华显光电(惠州)有限公司</strong>
-             <br> 2025.07-2025.10 惠州
+             <br> 2025.07-2025.10 - 惠州
              <br>-学徒期负责整条自动化产线的机器报警故障排除以及上下料处理，对机器故障点分析并进行参数微调排故。
              <br>-负责机器参数点检核对，小时产量和不良品统计并反馈，根据产线产品调整:清线和生产参数的切换与线边仓库沟通用料情况。
              </li>
