@@ -6,17 +6,17 @@ title: stories
 <html lang="zh-CN">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>个人简历</title>
-  <style>
-	body {
-	     font-family: 'Arial', 'PingFang SC', sans-serif;
-		 margin: 0;
-		 padding: 0;
-		 background-color: #f5f7fa;
-		 color: #333;
-		 line-height: 1.6;
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>个人简历</title>
+	<style>
+		body {
+		    font-family: 'Arial', 'PingFang SC', sans-serif;
+		    margin: 0;
+		    padding: 0;
+		    background-color: #f5f7fa;
+		    color: #333;
+		    line-height: 1.6;
 		}
 		.container {
 		    max-width: 800px;
@@ -60,7 +60,6 @@ title: stories
 		.header-right a {
 		    color: #4b5e8e;
 		    text-decoration: none;
-		    transition: all 0.3s ease;
 		}
 		.header-right a:hover {
 		    text-decoration: underline;
@@ -120,15 +119,11 @@ title: stories
 		    .header-left img {
 		        margin-right: 0;
 		        margin-bottom: 10px;
-		        width: 80px;
 		    }
 		    .header-right {
 		        text-align: center;
 		    }
-		    .content {
-                padding: 15px;
 		}
-   }
 </style>
 </head>
 <body>
