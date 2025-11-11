@@ -92,12 +92,16 @@ title: stories
 		    display: flex;
 		    flex-wrap: wrap;
 		    gap: 10px;
+             list-style: none;  /*去掉小点*/
+    padding: 0;  /*去除默认内边距*/
+    /*margin: 0;    去除外边距*/
 		}
 		.skills ul li {
 		    background-color: #e8f0fe;
 		    padding: 5px 10px;
 		    border-radius: 4px;
 		    font-size: 14px;
+            margin-bottom: 10px;  /*调整技能项间距*/
 		}
 		@media print {
 		    .container {
