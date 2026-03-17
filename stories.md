@@ -94,7 +94,7 @@ title: stories
 		    gap: 10px;
              list-style: none;  
     padding: 0;  
-    /*margin: 0;   
+    margin: 0;   
 		}
 		.skills ul li {
 		    background-color: #e8f0fe;
