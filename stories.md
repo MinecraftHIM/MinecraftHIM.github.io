@@ -38,17 +38,17 @@ title: stories
 		    align-items: center;
 		}
 		.header-left img {
-		    width: 94px; /* 1寸照片宽度：2.5cm @ 96dpi */
-		    height: 132px; /* 1寸照片高度：3.5cm @ 96dpi */
-		    border-radius: 8px; /* 轻微圆角，符合证件照风格 */
+		    width: 94px;
+		    height: 132px; 
+		    border-radius: 8px; 
 		    object-fit: cover;
 		    margin-right: 20px;
 		    border: 2px solid #fff;
 		}
 		.header-left h1 {
 		    margin: 0;
-		    font-size: 28px; /*字体大小*/
-		    color: #1e3a8a; /*颜色*/
+		    font-size: 28px; 
+		    color: #1e3a8a; 
 		}
 		.header-right {
 		    text-align: right;
@@ -92,16 +92,16 @@ title: stories
 		    display: flex;
 		    flex-wrap: wrap;
 		    gap: 10px;
-             list-style: none;  /*去掉小点*/
-    padding: 0;  /*去除默认内边距*/
-    /*margin: 0;    去除外边距*/
+             list-style: none;  
+    padding: 0;  
+    /*margin: 0;   
 		}
 		.skills ul li {
 		    background-color: #e8f0fe;
 		    padding: 5px 10px;
 		    border-radius: 4px;
 		    font-size: 14px;
-            margin-bottom: 10px;  /*调整技能项间距*/
+            margin-bottom: 10px;  
 		}
 		@media print {
 		    .container {
@@ -118,15 +118,15 @@ title: stories
 		        text-align: center;
 		    }
 		    .header-left {
-		        flex-direction: column; /*竖向排列*/
-		        align-items: center; /*名字居中*/
-		        text-align: center;  /* 文字对齐 */
-		        margin-bottom: 10px; /*底部间隔*/
+		        flex-direction: column; 
+		        align-items: center; 
+		        text-align: center;  
+		        margin-bottom: 10px; 
 		    }
 		    .header-left img {
 		        margin-right: 0;
-		        margin-bottom: 10px;/*图文间距*/
-		        width: 80px; /*头像大小*/
+		        margin-bottom: 10px;
+		        width: 80px; 
 		        height: auto;
 		    }
 		    .header-right {
@@ -174,19 +174,19 @@ title: stories
 			 <ul>
 			 <li>
 			 <strong>生产操作员 | 立讯精密有限公司</strong>
-			 <br> 2023.09 - 2023.12 - 苏州-实习
+			 <br> 2023.09 - 2023.12 - 苏州 -实习
 			 <br>-机器报警处理及设备传送带、传感器维护维修跟，进产品产量按时交付。
 			 <br>-操作定制可视化win系统组态界面 根据实际生产情况调节设备运行速率以及添加物料。
 			 </li>
 			 <li>
-			 <strong> | 华显光电(惠州)有限公司</strong>
-			 <br> 2025.07-2025.10 - 惠州-实习
+			 <strong>储备工程师 | 华显光电(惠州)有限公司</strong>
+			 <br> 2025.07-2025.10 - 惠州 -实习
 			 <br>-学徒期负责整条自动化产线的机器报警故障排除和上下料处理，对机器故障点分析并进行参数微调排故。
              <br>-负责机器参数点检核对，小时产量和不良品统计并反馈，根据产线产品调整:清线和生产参数的切换与线边仓库对接用料情况。
 			 </li>
              <li>
              <strong>技术员 | 今台电子(惠州)有限公司</strong>
-             <br> 2025.07-2025.10 - 惠州-毕业
+             <br> 2025.07-2025.10 - 惠州 -毕业
              <br>-负责整个LED分光部门所有机台接线调试维护和维修,按客户采购单生产对应LED产品.帮助生产员修改测试机台所测定波长范围值和VF值以支持其工作.
              <br>-负责对光耦合区域所有机台的管理,对安全隐患处进行排查,对部门所有机台的传动装置传感器光电感应伺服马达等装置调试和维修.
              </li>
