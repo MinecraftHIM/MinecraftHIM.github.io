@@ -4,7 +4,6 @@ permalink: /stories/index.html
 title: stories
 ---
 <html lang="zh-CN">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -137,7 +136,8 @@ title: stories
 		}
    }
 </style>
-</head><body>
+</head>
+<body>
 	<div class="container">
 	<div class="header">
 	<div class="header-left">
@@ -181,41 +181,25 @@ title: stories
 			 <strong>储备工程师 | 华显光电(惠州)有限公司</strong>
 			 <br> 2025.07-2025.10 - 惠州 -实习
 			 <br>-学徒期负责整条自动化产线的机器报警故障排除和上下料处理，对机器故障点分析并进行参数微调排故。
-             <br>-负责机器参数点检核对，小时产量和不良品统计并反馈，根据产线产品调整:清线和生产参数的切换与线边仓库对接用料情况。
+	         <br>-负责机器参数点检核对，小时产量和不良品统计并反馈，根据产线产品调整:清线和生产参数的切换与线边仓库对接用料情况。
 			 </li>
-             <li>
-             <strong>技术员 | 今台电子(惠州)有限公司</strong>
-             <br> 2025.07-2025.10 - 惠州 -毕业
-             <br>-负责整个LED分光部门所有机台接线调试维护和维修,按客户采购单生产对应LED产品.帮助生产员修改测试机台所测定波长范围值和VF值以支持其工作.
-             <br>-负责对光耦合区域所有机台的管理,对安全隐患处进行排查,对部门所有机台的传动装置传感器光电感应伺服马达等装置调试和维修.
-             </li>
-             </ul>
-             </div>
+	         <li>
+	         <strong>技术员 | 今台电子(惠州)有限公司</strong>
+	         <br> 2025.07-2025.10 - 惠州 -毕业
+	         <br>-负责整个LED分光部门所有机台接线调试维护和维修,按客户采购单生产对应LED产品.帮助生产员修改测试机台所测定波长范围值和VF值以支持其工作.
+	         <br>-负责对光耦合区域所有机台的管理,对安全隐患处进行排查,对部门所有机台的传动装置传感器光电感应伺服马达等装置调试和维修.
+	         </li>
+	         </ul>
+	         </div>
 	     <div class="section skills">
 		     <h2>专业技能</h2>	
 		     <ul style="list-style-type: none;">
 			 <li>计算机二级    </li>
-             <li>低压电工证    </li>
-             <li>PCB电路设计</li>
-             <li>微软办公软件</li>
-             <li>PLC/CAD绘图</li>
+	         <li>低压电工证    </li>
+	         <li>PCB电路设计</li>
+	         <li>微软办公软件</li>
+	         <li>PLC/CAD绘图</li>
 			 </ul>
-		     </div>   
-		  <div class="section">
-			 <h2>项目经验</h2>
-			 <ul>
-			 <li>
-		     <strong>校内实训项目</strong>
-		     <br> 2024.03 - 2024.06
-		     <br>- 设计并实现基于西门子S7-1200 PLC传送带自动化控制系统，使用梯形图编程并用电脑模拟运行成功具备启动、停止、速度调节功能。
-			 </li>
-			 <li>
-		     <strong>个人网页开发</strong>
-		     <br> 2022.03 - 至今
-		     <br> - 利用Github托管服务搭建并开发个人博客站点 购买并发布至域名XYboi.top
-		     <br> - 实现基于Git系统的本地推送发文功能 插入第三方流量访问记录插件实现与访客的交互、流量统计等功能。
-			 </li>
-			 </ul>
-		     </div>
+		     </div>  
 </body>
 </html>
