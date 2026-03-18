@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /1stories/
-title: 1stories
+permalink: /storiess/index.html
+title: stories
 ---
 <html lang="zh-CN">
 

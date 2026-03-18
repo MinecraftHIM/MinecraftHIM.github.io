@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /stories/index.html
+permalink: /stories/
 title: stories
 ---
 <html lang="zh-CN">
