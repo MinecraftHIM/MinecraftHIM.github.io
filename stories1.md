@@ -217,5 +217,3 @@ title: stories
 			 </li>
 			 </ul>
 		     </div>
-</body>
-</html>
