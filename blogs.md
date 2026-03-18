@@ -4,32 +4,32 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-## XYboi的中文博客
+## 待开发
 
-### 2024
-
-- 
-
-### 2023
+### 事情
 
 - 
 
-### 2022
+### 事件
 
 - 
 
-### 2021
+### 事件
 
 - 
 
-### 2020
+### 事件
+
+- 
+
+### 事件2020
 
 - [20](https://xyboi.com/blogs/18yrs)<br>
 - [20](https://mieclance.club/)
 
 <br>
 
-## 功能区
+## 功能区插件
 
 <br>
 
@@ -37,7 +37,7 @@ title: Blogs
 
 <br>
 
-## 功能区
+## 功能区插件
 
 <br>
 
